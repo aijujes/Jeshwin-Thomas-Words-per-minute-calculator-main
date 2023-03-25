@@ -1,4 +1,4 @@
-# Vinay-H-N-Words-per-minute-calculator
+#Jeshwin Thomas-Words-per-minute-calculator
 Phenoix Riders 
 
 In the project directory, you can run:
